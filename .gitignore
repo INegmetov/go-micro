@@ -24,3 +24,7 @@
 go.work
 /project/db-data/
 .idea
+/authentication-service/authApp
+/broker-service/brokerApp
+/logger-service/loggerServiceApp
+/mail-service/mailerApp
