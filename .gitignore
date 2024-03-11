@@ -28,3 +28,4 @@ go.work
 /broker-service/brokerApp
 /logger-service/loggerServiceApp
 /mail-service/mailerApp
+/listener-service/listenerApp
